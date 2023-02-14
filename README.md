@@ -1,7 +1,7 @@
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=react,androidstudio,apollo,cpp,css,dart,discord,express,firebase,github,graphql,
-&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,androidstudio,apollo,cpp,css,dart,discord,express,firebase,github,graphql,heroku,html,js,materialui,mongodb,nextjs,nodejs,postman,prisma,redux,sass,stackoverflow,solidity,tailwind,ts,vercel,vscode,
+&perline=10)](https://skillicons.dev)
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="anima"/>
 # 📊 GitHub Stats:
 
