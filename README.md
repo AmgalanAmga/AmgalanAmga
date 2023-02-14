@@ -1,7 +1,6 @@
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=react,androidstudio,apollo,cpp,css,dart,discord,express,firebase,github,graphql,heroku,html,js,materialui,mongodb,nextjs,nodejs,postman,prisma,redux,sass,stackoverflow,solidity,tailwind,ts,vercel,vscode,
-&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,androidstudio,apollo,cpp,css,dart,discord,express,firebase,github,graphql,heroku,html,js,materialui,mongodb,nextjs,nodejs,postman,prisma,redux,sass,stackoverflow,solidity,tailwind,ts,vercel,vscode&perline=19)](https://skillicons.dev)
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="anima"/>
 # 📊 GitHub Stats:
 
@@ -9,5 +8,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Amgalan&theme=tokyonight&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmgalanAmga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
