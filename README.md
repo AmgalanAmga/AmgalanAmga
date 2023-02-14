@@ -6,7 +6,6 @@
 ![Amgalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmgalanAmga&show_icons=true&theme=algolia )
 [![GitHub Streak](https://streak-stats.demolab.com?user=Amgalan&theme=tokyonight&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmgalanAmga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-{{ ACCOUNT_AGE }}
 ---
 
 
